@@ -11,8 +11,8 @@
 
   <div align="center">
     <div align="center">
-        <a href="https://github.com/Sunscarsonys"><img src="SN_LinkedIn_Banner2.jpg" height="240" /></a>
-       <a href="https://sunscar.dev" target="_blank">
+        <a href="https://github.com/thesiddhantnarula"><img src="SN_LinkedIn_Banner2.jpg" height="240" /></a>
+       <a //href="https://narula.dev" target="_blank">
         <img src="http://itshivam.in/api/github-profile?username=thesiddhantnarula&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
     </div>
@@ -25,8 +25,8 @@
         </a>
     </div>
     <div align="center">
-        <a href="https://www.linkedin.com/in/sunscarsonys/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="mailto:sunscarsony@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/thesiddhantnarula/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
+        <a href="mailto:siddhantnarula.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     </div>
     <div align="left">
         <br />
