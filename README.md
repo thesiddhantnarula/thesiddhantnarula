@@ -12,7 +12,7 @@
   <div align="center">
     <div align="center">
         <a href="https://github.com/thesiddhantnarula"><img src="SN_LinkedIn_Banner2.jpg" height="240" /></a>
-       <a //href="https://narula.dev" target="_blank">
+       <a href="https://" target="_blank">
         <img src="http://itshivam.in/api/github-profile?username=thesiddhantnarula&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
     </div>
