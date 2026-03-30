@@ -2,13 +2,16 @@
 </a>
 <br>
 <div align="center">
-          <a href="https://github.com/siddhantnarula">
+          <a href="https://github.com/Siddhant Narula LinkedIn Banner.svg">
         </a>
 </div>
 <div>
 
   <div align="center">
- 
+    <div align="center">
+        <a href="https://github.com/Sunscarsonys"><img src="SN_LinkedIn_Banner2.jpg" height="240" /></a>
+    </div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <div align="center">
       <a href="https://github.com/thesiddhantnarula">
             <img
